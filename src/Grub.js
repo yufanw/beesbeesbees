@@ -5,4 +5,3 @@ var Grub = function() {
 };
 
 Grub.prototype.eat = function() {};
-
